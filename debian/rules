@@ -7,7 +7,6 @@ override_dh_auto_install:
 
 override_dh_compress:
 	dh_compress '-X.dcl' '-X.docbook' '-X-license' '-X.tag' '-X.sty' '-X.el'
-	rm -rf /workspace/build/debian/tmp/usr/share/man/man1/kfind.1
 
 override_dh_auto_test:
 	# Disable dh_auto_test at build time
