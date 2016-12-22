@@ -1,5 +1,5 @@
 Source: kfind
-Section: kde
+Section: utils
 Priority: optional
 Maintainer: Debian/Kubuntu Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>
 Uploaders: Sune Vuorela <sune@debian.org>,
@@ -22,7 +22,6 @@ Vcs-Browser: https://anonscm.debian.org/git/pkg-kde/applications/kfind.git
 Vcs-Git: https://anonscm.debian.org/git/pkg-kde/applications/kfind.git
 
 Package: kfind
-Section: utils
 Architecture: any
 Depends: ${misc:Depends}, ${shlibs:Depends}
 Description: file search utility
