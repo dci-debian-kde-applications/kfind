@@ -12,6 +12,7 @@ kfind (4:17.08.3-0r1) UNRELEASED; urgency=medium
   * Simplify watch file, and switch it to https.
   * Bump Standards-Version to 4.1.1, no changes required.
   * Use https in copyright.
+  * Remove trailing whitespaces in changelog.
 
  -- Debian/Kubuntu Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>  Tue, 31 Oct 2017 18:00:38 +0100
 
@@ -71,6 +72,6 @@ kfind (4:16.12.1-0neon) xenial; urgency=medium
 
 kfind (4:16.12.0-0neon) xenial; urgency=medium
 
-  * Initial release. 
+  * Initial release.
 
  -- Raymond Wooninck <tittiatcoke@gmail.com>  Mon, 07 Nov 2016 18:50:18 +0100
